@@ -1,0 +1,1001 @@
+Waste_ID,Item_Name,Category,Quantity,Condition,Donor_ID,Created_At,Expiry_Date,Status
+1,Sony Camera,Laptop,8,Obsolete,899,2025-06-24,2025-10-27,Claimed
+2,Dell Laptop,Laptop,4,Damaged,516,2025-06-30,2025-07-05,Expired
+3,Dell Laptop,Laptop,3,Working,306,2024-12-23,2025-03-31,Claimed
+4,HP Printer,Other,20,Obsolete,346,2023-12-23,2024-02-22,Claimed
+5,Sony Camera,Laptop,11,Damaged,368,2025-08-18,2025-09-05,Available
+6,Samsung TV,Appliance,1,Working,230,2024-12-17,2025-10-18,Expired
+7,Samsung TV,Laptop,1,Obsolete,517,2024-08-09,2025-04-24,Available
+8,iPhone,Battery,2,Damaged,898,2024-04-21,2025-01-16,Expired
+9,Dell Laptop,Other,20,Working,609,2024-02-02,2024-10-14,Available
+10,Sony Camera,Mobile,1,Working,707,2025-03-24,2025-07-23,Available
+11,HP Printer,Appliance,13,Working,561,2023-12-16,2024-11-25,Claimed
+12,HP Printer,Laptop,7,Obsolete,703,2025-05-27,2025-08-10,Expired
+13,iPhone,Battery,14,Obsolete,104,2024-06-06,2025-04-24,Expired
+14,Microwave,Battery,20,Obsolete,718,2025-04-10,2025-07-04,Available
+15,HP Printer,Mobile,17,Obsolete,633,2024-08-24,2025-04-16,Available
+16,Dell Laptop,Mobile,4,Damaged,204,2025-07-21,2025-09-21,Expired
+17,Samsung TV,Battery,17,Working,367,2023-10-22,2025-07-26,Expired
+18,HP Printer,Battery,6,Working,562,2025-01-09,2025-09-20,Claimed
+19,Samsung TV,Appliance,11,Working,3,2025-08-11,2025-08-28,Available
+20,Sony Camera,Mobile,4,Obsolete,686,2024-08-13,2024-12-05,Claimed
+21,Samsung TV,Mobile,17,Working,741,2024-11-02,2025-10-28,Expired
+22,iPhone,Battery,8,Damaged,304,2025-01-22,2025-07-28,Claimed
+23,HP Printer,Mobile,4,Working,896,2024-07-15,2025-07-31,Available
+24,Dell Laptop,Battery,11,Damaged,757,2024-01-28,2024-03-14,Available
+25,iPhone,Mobile,1,Working,680,2025-04-20,2025-07-03,Expired
+26,Samsung TV,Battery,12,Damaged,979,2025-04-06,2025-05-14,Expired
+27,Dell Laptop,Mobile,12,Damaged,188,2024-05-11,2025-10-30,Available
+28,HP Printer,Appliance,15,Damaged,856,2024-03-02,2024-03-09,Claimed
+29,Sony Camera,Appliance,14,Obsolete,908,2024-08-11,2024-10-28,Available
+30,iPhone,Laptop,2,Working,107,2024-05-21,2024-11-20,Claimed
+31,Microwave,Appliance,19,Obsolete,449,2025-06-23,2025-07-27,Available
+32,Microwave,Appliance,12,Obsolete,30,2024-11-01,2025-05-14,Expired
+33,Sony Camera,Laptop,16,Damaged,116,2024-07-12,2025-08-26,Claimed
+34,HP Printer,Mobile,3,Damaged,671,2024-12-23,2025-08-21,Claimed
+35,iPhone,Other,19,Obsolete,579,2024-05-14,2025-04-30,Available
+36,Sony Camera,Battery,17,Obsolete,705,2023-11-01,2025-02-08,Expired
+37,Microwave,Mobile,14,Obsolete,745,2025-02-24,2025-10-08,Available
+38,HP Printer,Battery,13,Working,860,2025-06-24,2025-06-28,Expired
+39,Microwave,Mobile,1,Obsolete,957,2024-08-18,2025-10-16,Available
+40,Microwave,Appliance,16,Working,77,2023-12-29,2025-03-01,Claimed
+41,Dell Laptop,Laptop,11,Damaged,52,2024-12-14,2025-02-01,Expired
+42,Samsung TV,Other,13,Damaged,837,2024-03-23,2025-03-24,Available
+43,iPhone,Appliance,15,Obsolete,459,2023-11-26,2024-01-11,Available
+44,HP Printer,Appliance,11,Working,510,2024-04-19,2024-12-10,Expired
+45,Sony Camera,Mobile,4,Damaged,423,2024-12-24,2025-01-15,Available
+46,Microwave,Other,1,Working,811,2024-10-20,2024-11-26,Expired
+47,Microwave,Battery,17,Obsolete,212,2025-02-23,2025-04-04,Expired
+48,Sony Camera,Appliance,11,Damaged,846,2024-03-23,2025-08-17,Available
+49,Samsung TV,Appliance,11,Obsolete,786,2024-08-24,2025-03-09,Expired
+50,Microwave,Appliance,12,Obsolete,464,2024-08-26,2025-10-19,Available
+51,iPhone,Laptop,1,Damaged,364,2025-01-21,2025-02-10,Expired
+52,Dell Laptop,Other,17,Damaged,719,2025-08-12,2025-09-18,Available
+53,iPhone,Laptop,16,Working,842,2025-04-05,2025-10-28,Expired
+54,Sony Camera,Appliance,4,Damaged,626,2025-08-30,2025-10-20,Available
+55,Samsung TV,Mobile,13,Working,469,2024-09-28,2025-05-29,Available
+56,Sony Camera,Battery,4,Damaged,48,2024-11-23,2024-12-02,Expired
+57,Sony Camera,Other,4,Damaged,469,2024-02-26,2025-06-05,Expired
+58,Microwave,Other,5,Damaged,5,2023-12-19,2024-04-07,Expired
+59,Sony Camera,Mobile,18,Damaged,859,2025-02-13,2025-08-10,Expired
+60,HP Printer,Other,6,Obsolete,593,2025-06-11,2025-09-12,Available
+61,Sony Camera,Laptop,4,Damaged,674,2025-01-23,2025-02-06,Expired
+62,Microwave,Battery,17,Damaged,429,2024-06-19,2024-11-14,Expired
+63,Sony Camera,Laptop,9,Damaged,987,2025-03-06,2025-10-02,Claimed
+64,Dell Laptop,Appliance,5,Working,423,2025-05-01,2025-08-06,Expired
+65,Sony Camera,Other,10,Obsolete,561,2024-06-16,2024-08-13,Claimed
+66,Sony Camera,Other,7,Working,215,2025-04-12,2025-10-25,Expired
+67,Sony Camera,Battery,12,Obsolete,136,2025-03-24,2025-08-03,Expired
+68,Sony Camera,Laptop,17,Obsolete,711,2024-03-14,2025-10-02,Expired
+69,Dell Laptop,Mobile,12,Obsolete,492,2025-05-14,2025-07-01,Expired
+70,Microwave,Appliance,18,Damaged,899,2024-02-19,2025-05-12,Claimed
+71,iPhone,Other,4,Working,391,2024-09-16,2024-10-27,Available
+72,iPhone,Mobile,7,Damaged,769,2024-03-28,2025-06-12,Available
+73,Dell Laptop,Battery,5,Working,708,2025-05-01,2025-10-23,Claimed
+74,Samsung TV,Other,2,Damaged,834,2024-09-25,2025-10-13,Claimed
+75,iPhone,Other,18,Working,761,2024-03-07,2024-09-03,Expired
+76,Microwave,Appliance,8,Obsolete,804,2024-11-04,2024-11-05,Expired
+77,Dell Laptop,Mobile,13,Damaged,427,2025-08-05,2025-08-07,Expired
+78,Dell Laptop,Other,2,Working,762,2024-04-15,2024-06-24,Claimed
+79,Samsung TV,Other,15,Working,934,2024-04-17,2025-09-17,Expired
+80,Sony Camera,Battery,19,Obsolete,757,2025-06-24,2025-07-31,Expired
+81,Samsung TV,Laptop,10,Damaged,182,2024-02-07,2025-06-28,Expired
+82,iPhone,Laptop,6,Obsolete,527,2025-09-06,2025-10-16,Available
+83,HP Printer,Mobile,14,Damaged,570,2025-04-20,2025-08-19,Claimed
+84,Samsung TV,Laptop,19,Damaged,6,2025-02-06,2025-06-02,Claimed
+85,HP Printer,Laptop,2,Working,951,2024-01-05,2025-09-05,Claimed
+86,Microwave,Mobile,20,Obsolete,309,2023-10-08,2025-07-07,Claimed
+87,Microwave,Other,12,Working,803,2024-04-24,2024-08-05,Expired
+88,Dell Laptop,Other,8,Working,534,2024-03-09,2024-06-26,Available
+89,Microwave,Laptop,14,Obsolete,550,2025-09-24,2025-09-24,Claimed
+90,iPhone,Battery,8,Working,680,2023-10-28,2025-09-21,Claimed
+91,Dell Laptop,Battery,10,Working,974,2025-03-26,2025-10-26,Expired
+92,Microwave,Appliance,18,Obsolete,10,2024-07-28,2025-05-06,Available
+93,Sony Camera,Battery,15,Working,927,2024-11-29,2025-04-23,Expired
+94,Microwave,Other,8,Working,699,2024-02-14,2025-08-07,Claimed
+95,HP Printer,Mobile,13,Damaged,554,2025-09-06,2025-09-24,Expired
+96,Dell Laptop,Mobile,17,Damaged,527,2025-09-30,2025-10-10,Expired
+97,HP Printer,Appliance,2,Damaged,920,2024-04-20,2025-06-30,Expired
+98,Samsung TV,Battery,17,Working,971,2024-10-13,2025-05-04,Available
+99,Samsung TV,Other,18,Working,642,2023-11-23,2025-03-15,Available
+100,Samsung TV,Laptop,14,Working,211,2024-03-27,2024-11-13,Expired
+101,Sony Camera,Appliance,3,Obsolete,703,2025-07-30,2025-08-15,Available
+102,iPhone,Appliance,11,Working,90,2025-08-28,2025-09-06,Available
+103,iPhone,Laptop,9,Obsolete,73,2023-11-20,2025-10-18,Expired
+104,Samsung TV,Battery,14,Damaged,462,2024-05-10,2025-04-15,Expired
+105,HP Printer,Appliance,11,Working,399,2025-02-13,2025-06-02,Expired
+106,iPhone,Other,1,Obsolete,738,2024-08-05,2025-08-04,Expired
+107,iPhone,Other,2,Obsolete,869,2024-06-02,2025-06-14,Available
+108,Dell Laptop,Other,4,Damaged,806,2024-03-20,2024-07-29,Expired
+109,Dell Laptop,Other,3,Damaged,784,2025-03-30,2025-07-30,Claimed
+110,HP Printer,Appliance,1,Damaged,161,2023-12-06,2025-06-08,Expired
+111,Samsung TV,Laptop,13,Obsolete,303,2025-01-31,2025-05-08,Expired
+112,Samsung TV,Battery,12,Working,567,2023-12-25,2024-09-08,Expired
+113,Samsung TV,Mobile,2,Working,587,2025-08-17,2025-09-26,Expired
+114,HP Printer,Other,18,Working,313,2023-11-25,2024-11-13,Available
+115,Sony Camera,Battery,7,Damaged,928,2025-09-22,2025-10-01,Expired
+116,Microwave,Laptop,6,Working,227,2025-08-03,2025-08-11,Expired
+117,Dell Laptop,Laptop,4,Working,688,2024-02-16,2024-09-20,Expired
+118,iPhone,Other,15,Obsolete,563,2024-03-25,2024-07-19,Available
+119,Dell Laptop,Mobile,9,Working,203,2023-12-30,2025-07-18,Expired
+120,Microwave,Appliance,11,Damaged,132,2024-12-26,2025-06-21,Expired
+121,Sony Camera,Laptop,4,Damaged,635,2024-12-19,2025-02-16,Available
+122,Samsung TV,Battery,16,Damaged,337,2024-04-15,2025-04-17,Expired
+123,Sony Camera,Battery,19,Working,580,2025-06-22,2025-09-07,Expired
+124,Dell Laptop,Battery,14,Working,5,2023-12-29,2024-12-22,Claimed
+125,Samsung TV,Laptop,14,Damaged,861,2024-05-01,2024-06-07,Claimed
+126,Samsung TV,Battery,16,Damaged,457,2024-03-27,2024-12-06,Claimed
+127,Dell Laptop,Appliance,18,Working,180,2025-02-07,2025-04-27,Expired
+128,Microwave,Mobile,9,Working,913,2025-04-03,2025-04-17,Expired
+129,Samsung TV,Battery,3,Obsolete,78,2023-11-01,2025-06-20,Available
+130,Microwave,Mobile,19,Obsolete,415,2024-06-16,2025-04-09,Expired
+131,Samsung TV,Mobile,18,Damaged,557,2024-11-09,2025-02-22,Expired
+132,HP Printer,Laptop,12,Damaged,229,2024-01-06,2025-10-31,Expired
+133,Sony Camera,Battery,5,Damaged,514,2024-09-14,2025-01-13,Expired
+134,iPhone,Appliance,12,Obsolete,11,2024-10-16,2025-01-05,Expired
+135,Samsung TV,Other,6,Obsolete,144,2024-04-29,2024-06-11,Claimed
+136,Samsung TV,Laptop,19,Obsolete,676,2024-07-31,2025-10-12,Available
+137,Sony Camera,Appliance,12,Working,225,2025-07-12,2025-10-15,Claimed
+138,Samsung TV,Mobile,9,Damaged,240,2025-06-22,2025-08-25,Available
+139,Sony Camera,Laptop,17,Damaged,398,2024-04-23,2024-07-22,Claimed
+140,HP Printer,Mobile,2,Obsolete,332,2024-03-26,2024-08-14,Available
+141,Sony Camera,Other,9,Obsolete,270,2024-07-26,2024-12-23,Expired
+142,Microwave,Other,6,Damaged,670,2025-04-12,2025-04-14,Claimed
+143,Dell Laptop,Other,3,Obsolete,258,2025-09-09,2025-09-18,Claimed
+144,Samsung TV,Other,13,Damaged,837,2025-06-17,2025-08-18,Claimed
+145,HP Printer,Appliance,20,Working,514,2025-09-22,2025-09-24,Available
+146,HP Printer,Laptop,8,Working,527,2025-09-08,2025-10-31,Expired
+147,Dell Laptop,Laptop,5,Working,162,2025-02-10,2025-09-22,Claimed
+148,Microwave,Mobile,8,Damaged,831,2024-01-12,2024-04-23,Claimed
+149,Sony Camera,Mobile,16,Obsolete,491,2025-01-20,2025-08-03,Claimed
+150,Samsung TV,Other,6,Obsolete,854,2024-03-07,2024-04-10,Claimed
+151,iPhone,Laptop,2,Working,588,2025-01-02,2025-03-01,Expired
+152,Samsung TV,Laptop,17,Working,913,2024-01-22,2024-03-20,Expired
+153,Samsung TV,Mobile,6,Damaged,945,2025-05-17,2025-06-29,Available
+154,Microwave,Appliance,20,Obsolete,653,2024-03-10,2025-03-05,Available
+155,Sony Camera,Battery,3,Working,460,2023-10-25,2024-05-08,Expired
+156,HP Printer,Appliance,6,Working,851,2025-03-03,2025-07-06,Claimed
+157,Microwave,Laptop,19,Working,639,2025-06-05,2025-10-18,Expired
+158,Microwave,Battery,6,Obsolete,703,2023-11-03,2024-04-19,Claimed
+159,HP Printer,Other,19,Working,236,2025-02-16,2025-09-03,Claimed
+160,HP Printer,Laptop,4,Working,208,2024-08-15,2024-08-27,Expired
+161,Microwave,Appliance,5,Obsolete,99,2024-10-21,2024-12-23,Available
+162,HP Printer,Other,20,Working,899,2025-01-25,2025-05-21,Expired
+163,Microwave,Mobile,3,Damaged,676,2024-02-29,2024-03-27,Available
+164,Microwave,Other,1,Obsolete,665,2024-08-15,2024-12-01,Claimed
+165,Microwave,Appliance,12,Working,715,2024-10-27,2025-04-22,Expired
+166,HP Printer,Laptop,16,Damaged,359,2024-02-24,2025-10-15,Expired
+167,Sony Camera,Other,4,Damaged,138,2024-05-02,2025-01-17,Claimed
+168,HP Printer,Laptop,3,Damaged,613,2024-01-05,2024-04-21,Expired
+169,HP Printer,Battery,7,Working,727,2024-12-20,2025-05-12,Expired
+170,iPhone,Other,17,Working,533,2025-07-04,2025-07-26,Available
+171,HP Printer,Laptop,11,Damaged,371,2025-01-21,2025-07-11,Available
+172,Samsung TV,Appliance,19,Damaged,268,2025-03-08,2025-05-03,Expired
+173,HP Printer,Other,12,Obsolete,283,2024-11-22,2025-09-02,Expired
+174,HP Printer,Laptop,14,Obsolete,803,2024-06-18,2025-03-03,Expired
+175,HP Printer,Laptop,12,Obsolete,569,2024-11-26,2025-04-23,Claimed
+176,Dell Laptop,Battery,19,Damaged,793,2024-10-23,2025-06-22,Expired
+177,HP Printer,Laptop,4,Obsolete,236,2025-04-13,2025-07-15,Claimed
+178,Sony Camera,Laptop,4,Working,521,2024-01-02,2024-10-22,Claimed
+179,Dell Laptop,Other,20,Obsolete,701,2025-09-03,2025-09-06,Expired
+180,iPhone,Laptop,13,Obsolete,6,2025-02-14,2025-04-14,Available
+181,Samsung TV,Appliance,20,Damaged,91,2024-10-03,2025-08-29,Available
+182,Dell Laptop,Laptop,12,Working,624,2024-03-02,2025-09-19,Available
+183,Sony Camera,Appliance,13,Obsolete,672,2025-04-10,2025-08-02,Expired
+184,Dell Laptop,Other,2,Working,656,2024-11-20,2025-05-10,Claimed
+185,HP Printer,Mobile,7,Obsolete,954,2025-06-26,2025-09-15,Expired
+186,Dell Laptop,Laptop,2,Obsolete,523,2025-05-28,2025-08-06,Expired
+187,Sony Camera,Laptop,20,Working,691,2025-04-12,2025-09-11,Available
+188,Dell Laptop,Laptop,1,Working,89,2025-09-11,2025-09-20,Claimed
+189,HP Printer,Battery,13,Damaged,601,2024-01-13,2025-02-27,Available
+190,Microwave,Mobile,3,Working,563,2025-07-15,2025-07-25,Claimed
+191,Sony Camera,Other,19,Damaged,356,2025-09-26,2025-10-15,Claimed
+192,Samsung TV,Other,7,Damaged,953,2025-01-14,2025-05-29,Claimed
+193,Microwave,Mobile,9,Working,417,2025-09-23,2025-10-08,Expired
+194,iPhone,Other,3,Obsolete,302,2025-06-02,2025-10-30,Claimed
+195,iPhone,Other,9,Obsolete,833,2024-02-01,2024-05-08,Expired
+196,Dell Laptop,Appliance,13,Obsolete,496,2023-12-22,2024-01-18,Available
+197,Dell Laptop,Appliance,15,Obsolete,883,2025-03-26,2025-08-01,Available
+198,HP Printer,Mobile,9,Working,392,2024-03-14,2024-05-14,Expired
+199,Samsung TV,Laptop,11,Damaged,979,2024-08-05,2024-10-29,Claimed
+200,Microwave,Other,1,Obsolete,853,2024-06-17,2025-04-09,Claimed
+201,Samsung TV,Battery,3,Damaged,690,2025-06-21,2025-09-04,Expired
+202,Dell Laptop,Mobile,18,Working,488,2024-10-02,2025-06-21,Claimed
+203,Dell Laptop,Laptop,19,Damaged,188,2025-01-20,2025-07-11,Expired
+204,Sony Camera,Laptop,16,Obsolete,205,2025-05-09,2025-05-29,Available
+205,Sony Camera,Laptop,9,Working,235,2024-03-13,2024-10-07,Available
+206,Samsung TV,Other,12,Working,798,2023-11-27,2024-02-23,Available
+207,iPhone,Mobile,16,Obsolete,7,2025-07-07,2025-08-01,Expired
+208,iPhone,Appliance,12,Obsolete,323,2025-01-15,2025-03-13,Claimed
+209,Microwave,Battery,16,Working,783,2025-02-03,2025-08-30,Expired
+210,Dell Laptop,Appliance,8,Obsolete,132,2025-03-16,2025-10-03,Available
+211,Microwave,Appliance,16,Obsolete,34,2023-11-23,2023-11-29,Expired
+212,Dell Laptop,Appliance,6,Damaged,1000,2024-04-28,2024-09-05,Available
+213,Sony Camera,Other,15,Damaged,706,2025-07-24,2025-09-03,Available
+214,iPhone,Laptop,13,Obsolete,104,2024-12-02,2025-08-03,Claimed
+215,Dell Laptop,Other,9,Working,562,2025-03-05,2025-07-09,Claimed
+216,Samsung TV,Battery,16,Obsolete,352,2025-01-30,2025-04-10,Claimed
+217,Samsung TV,Appliance,14,Working,430,2024-04-15,2025-03-31,Expired
+218,Dell Laptop,Battery,13,Damaged,462,2025-01-25,2025-06-29,Available
+219,Microwave,Laptop,19,Obsolete,235,2024-06-06,2025-03-10,Available
+220,Sony Camera,Battery,8,Obsolete,443,2024-05-14,2025-02-14,Claimed
+221,Samsung TV,Laptop,5,Damaged,826,2023-11-04,2025-07-22,Available
+222,Samsung TV,Appliance,16,Working,915,2024-10-25,2025-02-27,Expired
+223,Microwave,Other,11,Damaged,308,2024-06-08,2024-12-27,Claimed
+224,Microwave,Other,2,Damaged,102,2024-11-25,2025-06-14,Expired
+225,Samsung TV,Mobile,7,Damaged,488,2025-08-19,2025-09-20,Expired
+226,iPhone,Appliance,11,Damaged,370,2025-01-10,2025-07-28,Claimed
+227,Microwave,Other,9,Damaged,21,2025-07-27,2025-10-14,Claimed
+228,iPhone,Battery,20,Working,591,2025-02-04,2025-10-31,Expired
+229,Sony Camera,Other,6,Damaged,364,2025-07-30,2025-08-03,Claimed
+230,Sony Camera,Other,16,Obsolete,458,2024-07-28,2025-10-16,Available
+231,HP Printer,Other,10,Damaged,647,2023-11-10,2024-07-04,Available
+232,Samsung TV,Battery,14,Obsolete,628,2024-04-05,2025-06-29,Expired
+233,HP Printer,Mobile,3,Working,352,2025-06-02,2025-09-16,Available
+234,Dell Laptop,Battery,10,Obsolete,274,2024-10-04,2025-05-16,Expired
+235,Sony Camera,Appliance,9,Damaged,800,2025-01-26,2025-10-01,Claimed
+236,Sony Camera,Other,17,Damaged,424,2025-07-09,2025-10-22,Available
+237,Samsung TV,Mobile,5,Obsolete,241,2025-08-04,2025-10-29,Expired
+238,Dell Laptop,Mobile,7,Working,407,2024-05-25,2024-12-28,Available
+239,iPhone,Mobile,16,Obsolete,56,2025-07-19,2025-07-19,Available
+240,HP Printer,Other,3,Working,269,2024-08-04,2024-09-03,Expired
+241,Samsung TV,Mobile,13,Damaged,235,2024-01-23,2025-09-26,Available
+242,Sony Camera,Battery,15,Obsolete,130,2024-07-29,2025-10-22,Available
+243,Microwave,Laptop,1,Working,680,2025-05-11,2025-05-17,Claimed
+244,Dell Laptop,Appliance,15,Obsolete,958,2024-12-18,2025-08-21,Claimed
+245,Microwave,Appliance,5,Obsolete,553,2024-07-12,2025-10-18,Available
+246,Microwave,Other,15,Obsolete,767,2024-05-27,2024-07-03,Expired
+247,Microwave,Appliance,17,Obsolete,655,2024-06-26,2024-10-07,Expired
+248,Dell Laptop,Battery,16,Obsolete,233,2023-12-22,2025-03-05,Available
+249,HP Printer,Battery,12,Damaged,267,2024-11-13,2025-06-23,Available
+250,Dell Laptop,Mobile,1,Obsolete,835,2025-01-23,2025-01-30,Available
+251,Dell Laptop,Battery,16,Obsolete,9,2024-02-24,2024-02-24,Expired
+252,HP Printer,Appliance,10,Working,785,2025-06-10,2025-09-14,Claimed
+253,Dell Laptop,Other,8,Working,562,2024-09-27,2025-10-19,Claimed
+254,Samsung TV,Appliance,18,Damaged,405,2024-02-29,2024-04-08,Available
+255,Samsung TV,Appliance,13,Working,270,2024-11-19,2025-06-02,Available
+256,HP Printer,Laptop,17,Obsolete,827,2025-08-14,2025-08-22,Expired
+257,Sony Camera,Battery,10,Obsolete,761,2024-06-14,2024-12-09,Expired
+258,Dell Laptop,Appliance,7,Working,187,2023-10-17,2024-02-20,Available
+259,Dell Laptop,Mobile,15,Obsolete,464,2024-12-25,2025-03-20,Claimed
+260,Sony Camera,Other,16,Working,329,2024-03-10,2024-08-14,Available
+261,Samsung TV,Mobile,18,Working,191,2024-07-28,2025-07-24,Available
+262,Dell Laptop,Battery,5,Obsolete,449,2024-09-14,2024-10-31,Expired
+263,iPhone,Laptop,3,Working,16,2024-06-26,2024-10-13,Claimed
+264,Samsung TV,Battery,14,Damaged,805,2024-12-13,2025-06-22,Claimed
+265,Dell Laptop,Appliance,2,Damaged,83,2024-12-24,2025-02-15,Available
+266,iPhone,Battery,13,Working,557,2024-07-02,2024-12-30,Claimed
+267,Samsung TV,Laptop,9,Damaged,849,2024-11-25,2025-03-24,Available
+268,iPhone,Laptop,13,Damaged,254,2023-12-19,2025-06-18,Expired
+269,iPhone,Laptop,15,Obsolete,790,2025-05-28,2025-06-25,Available
+270,Microwave,Laptop,16,Damaged,698,2025-09-28,2025-10-31,Claimed
+271,Dell Laptop,Laptop,2,Obsolete,960,2024-09-14,2024-12-03,Expired
+272,Microwave,Mobile,9,Damaged,654,2025-06-04,2025-07-17,Claimed
+273,Samsung TV,Battery,2,Obsolete,224,2024-01-21,2024-11-06,Available
+274,Samsung TV,Appliance,11,Working,172,2024-03-21,2024-09-30,Claimed
+275,Microwave,Mobile,13,Working,10,2024-01-18,2025-07-16,Available
+276,Microwave,Appliance,20,Working,381,2024-07-05,2025-08-12,Available
+277,Samsung TV,Laptop,16,Working,703,2025-05-12,2025-08-28,Expired
+278,Dell Laptop,Mobile,2,Damaged,661,2024-10-31,2025-08-30,Available
+279,Sony Camera,Other,4,Working,500,2024-04-20,2025-09-02,Available
+280,Dell Laptop,Other,12,Damaged,751,2025-05-30,2025-10-10,Available
+281,iPhone,Appliance,12,Obsolete,138,2023-10-15,2024-06-06,Claimed
+282,iPhone,Appliance,15,Obsolete,302,2025-05-12,2025-05-27,Expired
+283,Sony Camera,Appliance,7,Obsolete,192,2024-08-25,2025-01-06,Expired
+284,Dell Laptop,Battery,15,Damaged,889,2024-10-13,2025-01-27,Expired
+285,Microwave,Laptop,3,Obsolete,159,2024-02-16,2024-06-01,Claimed
+286,Dell Laptop,Battery,18,Damaged,465,2023-12-16,2024-03-24,Available
+287,Sony Camera,Other,13,Obsolete,190,2025-03-06,2025-04-18,Available
+288,Microwave,Battery,20,Working,329,2023-12-09,2025-07-09,Expired
+289,iPhone,Other,13,Working,537,2025-07-15,2025-09-16,Expired
+290,HP Printer,Other,5,Obsolete,290,2024-05-22,2025-10-09,Claimed
+291,HP Printer,Battery,4,Working,536,2024-04-29,2024-12-25,Expired
+292,iPhone,Mobile,5,Working,895,2025-02-15,2025-09-02,Available
+293,Samsung TV,Mobile,16,Working,102,2025-05-08,2025-07-15,Available
+294,Microwave,Appliance,16,Obsolete,639,2023-10-13,2024-02-03,Expired
+295,Microwave,Battery,2,Damaged,227,2025-03-11,2025-07-04,Expired
+296,Sony Camera,Mobile,1,Working,672,2025-05-11,2025-07-29,Claimed
+297,iPhone,Appliance,2,Damaged,572,2025-03-27,2025-04-24,Expired
+298,HP Printer,Battery,2,Obsolete,273,2023-10-16,2025-03-26,Expired
+299,iPhone,Mobile,10,Working,968,2025-03-21,2025-04-17,Available
+300,Microwave,Mobile,4,Obsolete,237,2024-07-30,2025-09-17,Expired
+301,HP Printer,Laptop,7,Obsolete,673,2023-12-13,2025-10-26,Available
+302,Microwave,Laptop,18,Obsolete,572,2023-10-04,2024-10-22,Claimed
+303,Sony Camera,Mobile,19,Damaged,691,2023-12-20,2024-06-28,Claimed
+304,Sony Camera,Appliance,4,Working,812,2025-08-23,2025-10-08,Available
+305,Microwave,Appliance,17,Damaged,674,2024-10-12,2025-07-02,Available
+306,Microwave,Other,15,Damaged,925,2024-12-25,2025-10-09,Claimed
+307,Microwave,Battery,12,Damaged,783,2024-10-16,2025-01-13,Expired
+308,HP Printer,Battery,20,Working,577,2023-10-13,2025-10-12,Expired
+309,Samsung TV,Appliance,18,Obsolete,261,2025-01-25,2025-09-28,Claimed
+310,HP Printer,Appliance,13,Working,744,2025-02-02,2025-06-12,Available
+311,Dell Laptop,Other,1,Obsolete,139,2025-10-01,2025-10-05,Claimed
+312,iPhone,Battery,8,Working,877,2025-04-02,2025-07-28,Claimed
+313,iPhone,Battery,18,Obsolete,570,2025-02-05,2025-07-07,Expired
+314,Microwave,Laptop,4,Working,472,2023-10-10,2024-09-21,Claimed
+315,Samsung TV,Laptop,9,Damaged,911,2024-02-26,2025-03-15,Expired
+316,Samsung TV,Laptop,9,Damaged,95,2024-02-12,2024-03-27,Expired
+317,HP Printer,Other,7,Obsolete,80,2024-05-27,2024-06-26,Expired
+318,Dell Laptop,Appliance,6,Damaged,846,2024-04-08,2025-08-14,Expired
+319,Sony Camera,Other,4,Obsolete,658,2024-02-17,2025-07-25,Claimed
+320,iPhone,Other,13,Working,799,2025-06-05,2025-08-01,Available
+321,Dell Laptop,Battery,14,Damaged,953,2023-10-09,2024-05-16,Available
+322,Samsung TV,Other,1,Obsolete,797,2024-05-24,2024-06-08,Expired
+323,HP Printer,Mobile,10,Obsolete,43,2023-12-20,2024-04-20,Claimed
+324,Microwave,Other,5,Damaged,515,2023-11-29,2024-11-08,Expired
+325,Samsung TV,Laptop,2,Obsolete,750,2024-12-06,2025-04-17,Claimed
+326,HP Printer,Other,19,Obsolete,93,2024-08-26,2025-02-01,Available
+327,HP Printer,Battery,13,Working,136,2025-08-31,2025-09-30,Claimed
+328,iPhone,Appliance,19,Obsolete,51,2024-03-05,2025-01-09,Expired
+329,HP Printer,Battery,3,Damaged,514,2023-11-24,2024-06-23,Claimed
+330,Sony Camera,Laptop,5,Damaged,573,2024-06-19,2025-03-29,Available
+331,HP Printer,Appliance,19,Working,575,2025-07-03,2025-07-09,Expired
+332,Sony Camera,Other,8,Working,74,2023-12-06,2024-04-05,Claimed
+333,HP Printer,Battery,19,Working,116,2025-01-10,2025-01-16,Expired
+334,HP Printer,Appliance,12,Damaged,196,2024-04-14,2024-10-16,Claimed
+335,Dell Laptop,Other,1,Damaged,174,2023-12-05,2024-04-06,Claimed
+336,Microwave,Appliance,20,Working,452,2024-11-15,2025-05-02,Available
+337,Samsung TV,Laptop,12,Working,776,2024-11-21,2025-10-25,Expired
+338,iPhone,Mobile,2,Working,972,2024-08-26,2025-07-24,Expired
+339,Samsung TV,Battery,1,Damaged,711,2024-09-21,2025-08-27,Available
+340,Dell Laptop,Appliance,16,Working,340,2024-06-26,2025-04-19,Available
+341,Sony Camera,Other,7,Working,560,2024-05-16,2025-03-22,Expired
+342,Dell Laptop,Other,16,Obsolete,748,2025-08-27,2025-10-25,Available
+343,Sony Camera,Mobile,13,Obsolete,928,2025-06-21,2025-09-26,Expired
+344,Microwave,Mobile,9,Working,62,2025-05-23,2025-09-30,Claimed
+345,Samsung TV,Other,9,Working,477,2024-03-06,2024-12-28,Expired
+346,iPhone,Mobile,13,Obsolete,278,2024-04-07,2024-09-14,Expired
+347,Sony Camera,Battery,4,Working,300,2025-05-17,2025-06-15,Expired
+348,HP Printer,Laptop,13,Obsolete,727,2023-10-29,2025-01-12,Available
+349,Dell Laptop,Appliance,20,Obsolete,91,2024-05-08,2025-06-18,Available
+350,Samsung TV,Other,15,Obsolete,949,2025-05-01,2025-05-19,Expired
+351,iPhone,Mobile,8,Obsolete,313,2024-08-12,2025-09-10,Claimed
+352,HP Printer,Appliance,6,Working,356,2025-07-14,2025-09-20,Expired
+353,Dell Laptop,Battery,10,Working,514,2024-02-27,2024-05-03,Claimed
+354,iPhone,Battery,13,Working,967,2025-08-18,2025-10-13,Expired
+355,Dell Laptop,Laptop,5,Damaged,919,2025-08-29,2025-10-24,Claimed
+356,Sony Camera,Laptop,3,Obsolete,392,2025-02-25,2025-10-14,Expired
+357,Sony Camera,Other,8,Damaged,247,2023-10-03,2025-03-20,Expired
+358,Samsung TV,Appliance,10,Obsolete,338,2024-11-12,2025-05-14,Claimed
+359,Microwave,Laptop,7,Obsolete,142,2025-06-24,2025-06-30,Expired
+360,Microwave,Laptop,5,Damaged,706,2023-11-23,2025-07-02,Expired
+361,Microwave,Laptop,14,Working,672,2024-05-25,2025-03-16,Expired
+362,Samsung TV,Battery,3,Obsolete,546,2023-12-28,2025-01-31,Expired
+363,iPhone,Laptop,11,Working,745,2024-09-30,2024-11-13,Available
+364,Dell Laptop,Appliance,14,Damaged,454,2025-06-01,2025-10-01,Expired
+365,Sony Camera,Battery,5,Working,110,2025-04-01,2025-06-03,Available
+366,Samsung TV,Mobile,20,Obsolete,274,2024-10-06,2025-04-01,Expired
+367,Microwave,Other,8,Obsolete,238,2025-08-23,2025-10-22,Available
+368,Sony Camera,Mobile,12,Working,705,2024-01-10,2024-08-04,Claimed
+369,Samsung TV,Other,20,Damaged,730,2025-06-13,2025-08-27,Expired
+370,Dell Laptop,Laptop,13,Damaged,486,2024-09-24,2025-03-22,Available
+371,Samsung TV,Laptop,8,Working,419,2023-12-10,2024-08-02,Available
+372,Dell Laptop,Appliance,8,Obsolete,688,2025-03-20,2025-08-17,Available
+373,Samsung TV,Mobile,6,Damaged,888,2024-05-06,2024-09-05,Expired
+374,HP Printer,Battery,15,Working,438,2024-06-17,2024-07-09,Claimed
+375,iPhone,Other,13,Obsolete,321,2024-10-30,2025-09-09,Claimed
+376,Microwave,Other,20,Obsolete,538,2024-11-06,2025-08-18,Expired
+377,Sony Camera,Mobile,17,Working,463,2024-02-15,2024-08-17,Claimed
+378,iPhone,Laptop,17,Obsolete,406,2024-01-19,2025-09-11,Expired
+379,iPhone,Other,13,Obsolete,784,2024-04-24,2025-08-28,Expired
+380,iPhone,Laptop,10,Damaged,408,2024-03-04,2025-07-01,Claimed
+381,Dell Laptop,Appliance,6,Damaged,302,2024-08-16,2025-07-17,Expired
+382,iPhone,Other,5,Damaged,850,2025-07-24,2025-09-21,Expired
+383,HP Printer,Mobile,17,Working,185,2025-04-12,2025-10-02,Expired
+384,Sony Camera,Other,5,Damaged,424,2025-03-11,2025-09-17,Claimed
+385,HP Printer,Mobile,6,Damaged,605,2024-03-15,2024-07-08,Expired
+386,Samsung TV,Appliance,3,Damaged,332,2024-04-12,2025-04-29,Expired
+387,Sony Camera,Laptop,4,Working,117,2024-01-31,2024-08-16,Expired
+388,HP Printer,Battery,3,Obsolete,725,2025-08-03,2025-10-27,Claimed
+389,Sony Camera,Other,20,Working,388,2025-01-03,2025-10-07,Expired
+390,HP Printer,Mobile,6,Damaged,580,2025-04-09,2025-06-11,Expired
+391,Samsung TV,Laptop,5,Working,788,2025-01-13,2025-03-18,Expired
+392,iPhone,Appliance,10,Damaged,748,2025-02-17,2025-03-22,Claimed
+393,Dell Laptop,Laptop,4,Working,984,2024-04-10,2024-10-06,Available
+394,iPhone,Other,9,Working,470,2024-01-17,2024-09-10,Claimed
+395,HP Printer,Other,1,Obsolete,904,2023-10-06,2025-09-24,Claimed
+396,Samsung TV,Laptop,19,Obsolete,488,2024-08-02,2024-09-26,Claimed
+397,HP Printer,Appliance,3,Obsolete,615,2024-11-06,2025-04-11,Available
+398,Samsung TV,Other,9,Obsolete,644,2025-03-17,2025-07-07,Expired
+399,Samsung TV,Mobile,6,Working,57,2024-08-10,2024-08-25,Expired
+400,Dell Laptop,Mobile,5,Working,684,2024-07-05,2025-05-08,Expired
+401,Microwave,Battery,11,Working,51,2025-01-01,2025-02-28,Available
+402,HP Printer,Laptop,6,Obsolete,292,2025-09-08,2025-10-21,Expired
+403,Sony Camera,Other,19,Obsolete,182,2024-04-14,2025-01-27,Claimed
+404,Sony Camera,Other,12,Working,96,2023-10-22,2025-10-08,Claimed
+405,Dell Laptop,Battery,13,Working,777,2024-07-12,2025-05-23,Claimed
+406,Microwave,Mobile,10,Damaged,138,2025-01-23,2025-06-11,Available
+407,Sony Camera,Battery,11,Obsolete,424,2025-03-02,2025-09-21,Expired
+408,Samsung TV,Laptop,20,Working,112,2024-02-09,2024-12-01,Expired
+409,Sony Camera,Other,3,Damaged,742,2023-12-05,2025-09-29,Expired
+410,Microwave,Battery,14,Obsolete,869,2025-08-19,2025-09-29,Claimed
+411,Dell Laptop,Other,19,Obsolete,363,2025-04-26,2025-08-17,Available
+412,Microwave,Other,16,Obsolete,747,2023-12-14,2024-05-17,Expired
+413,HP Printer,Appliance,6,Obsolete,239,2024-05-03,2024-10-22,Expired
+414,Dell Laptop,Laptop,1,Working,25,2025-02-01,2025-08-22,Claimed
+415,Sony Camera,Mobile,7,Obsolete,425,2025-03-09,2025-04-05,Claimed
+416,iPhone,Battery,12,Obsolete,826,2024-01-31,2025-09-16,Expired
+417,Samsung TV,Mobile,7,Obsolete,289,2024-06-21,2025-08-30,Claimed
+418,iPhone,Battery,10,Obsolete,564,2025-09-23,2025-09-25,Claimed
+419,iPhone,Mobile,11,Damaged,406,2024-02-23,2024-10-28,Expired
+420,Microwave,Other,1,Working,199,2025-08-03,2025-09-10,Claimed
+421,Dell Laptop,Appliance,16,Working,662,2024-02-10,2024-04-14,Available
+422,HP Printer,Laptop,15,Obsolete,918,2025-01-09,2025-06-29,Claimed
+423,HP Printer,Appliance,2,Obsolete,307,2024-04-28,2025-05-02,Expired
+424,Sony Camera,Battery,18,Obsolete,20,2024-09-04,2024-10-10,Available
+425,Microwave,Battery,12,Working,993,2024-05-21,2025-01-06,Available
+426,Dell Laptop,Mobile,11,Damaged,642,2023-11-16,2024-07-03,Expired
+427,Samsung TV,Other,20,Damaged,192,2024-01-24,2024-08-17,Expired
+428,iPhone,Battery,11,Obsolete,33,2023-12-25,2024-08-05,Claimed
+429,HP Printer,Mobile,16,Working,381,2024-01-23,2025-07-14,Claimed
+430,Dell Laptop,Laptop,17,Damaged,180,2025-03-11,2025-08-19,Available
+431,Dell Laptop,Mobile,7,Working,455,2024-06-02,2025-03-20,Expired
+432,iPhone,Appliance,17,Working,195,2024-01-30,2024-12-23,Claimed
+433,HP Printer,Other,10,Damaged,147,2023-11-25,2025-10-01,Available
+434,Microwave,Laptop,7,Obsolete,38,2024-08-03,2024-09-14,Claimed
+435,HP Printer,Other,4,Working,319,2024-04-18,2025-02-25,Available
+436,Sony Camera,Other,3,Damaged,479,2024-05-19,2024-11-26,Available
+437,iPhone,Other,10,Working,592,2023-10-22,2025-09-03,Claimed
+438,Sony Camera,Laptop,11,Working,198,2025-04-12,2025-04-22,Claimed
+439,Dell Laptop,Other,11,Damaged,688,2024-09-06,2025-01-08,Available
+440,Dell Laptop,Laptop,6,Damaged,118,2024-05-26,2025-05-20,Available
+441,Microwave,Other,17,Working,212,2025-08-30,2025-10-07,Expired
+442,Dell Laptop,Other,11,Damaged,145,2025-08-25,2025-10-01,Expired
+443,Dell Laptop,Other,8,Working,73,2025-03-20,2025-03-23,Claimed
+444,Microwave,Battery,18,Damaged,52,2025-09-13,2025-10-17,Available
+445,iPhone,Appliance,2,Working,393,2025-05-26,2025-10-12,Available
+446,iPhone,Appliance,13,Working,722,2024-03-19,2024-05-13,Expired
+447,Microwave,Appliance,20,Damaged,320,2025-07-15,2025-08-26,Claimed
+448,Samsung TV,Other,3,Damaged,582,2025-01-23,2025-10-23,Available
+449,iPhone,Appliance,4,Damaged,318,2024-10-09,2025-07-29,Expired
+450,Sony Camera,Appliance,16,Working,971,2024-11-15,2025-02-04,Available
+451,Samsung TV,Other,9,Damaged,402,2024-09-25,2025-05-03,Available
+452,Sony Camera,Battery,11,Damaged,500,2024-10-07,2025-07-26,Available
+453,iPhone,Appliance,4,Damaged,491,2024-07-23,2025-01-13,Claimed
+454,Samsung TV,Battery,12,Obsolete,589,2024-10-18,2025-04-19,Available
+455,Microwave,Mobile,13,Obsolete,816,2025-04-19,2025-10-23,Available
+456,Dell Laptop,Other,3,Damaged,546,2025-09-08,2025-09-26,Claimed
+457,HP Printer,Other,14,Working,636,2024-05-26,2024-10-09,Available
+458,Microwave,Laptop,16,Damaged,68,2025-08-26,2025-09-19,Claimed
+459,Samsung TV,Other,14,Damaged,581,2024-02-10,2025-02-18,Claimed
+460,Microwave,Laptop,6,Obsolete,686,2024-11-01,2025-03-02,Available
+461,Sony Camera,Other,16,Working,607,2025-05-31,2025-10-12,Expired
+462,HP Printer,Battery,18,Working,842,2023-11-27,2024-04-11,Claimed
+463,Samsung TV,Battery,13,Working,613,2025-07-20,2025-10-23,Available
+464,Sony Camera,Other,13,Damaged,507,2025-02-10,2025-07-20,Expired
+465,Sony Camera,Mobile,3,Working,837,2025-05-22,2025-10-21,Available
+466,Microwave,Mobile,5,Obsolete,153,2023-12-23,2024-04-04,Claimed
+467,Microwave,Battery,13,Obsolete,592,2025-05-09,2025-09-28,Claimed
+468,Samsung TV,Laptop,11,Damaged,584,2024-10-27,2024-12-22,Expired
+469,Dell Laptop,Appliance,12,Working,597,2024-08-28,2024-11-18,Available
+470,Microwave,Other,13,Working,873,2024-02-02,2024-09-06,Claimed
+471,iPhone,Battery,18,Working,1,2025-07-11,2025-10-26,Expired
+472,Microwave,Battery,4,Damaged,887,2024-09-24,2025-09-07,Available
+473,Samsung TV,Appliance,19,Damaged,641,2025-01-17,2025-08-25,Claimed
+474,Sony Camera,Appliance,13,Damaged,446,2025-01-10,2025-05-01,Expired
+475,Samsung TV,Laptop,16,Working,193,2025-02-24,2025-09-08,Expired
+476,HP Printer,Battery,14,Working,296,2023-11-27,2025-02-21,Expired
+477,Samsung TV,Laptop,1,Working,664,2024-05-31,2024-06-28,Available
+478,Samsung TV,Appliance,14,Working,87,2024-08-13,2025-10-15,Available
+479,Sony Camera,Appliance,15,Obsolete,619,2024-01-04,2024-05-20,Claimed
+480,Microwave,Laptop,15,Obsolete,435,2025-07-20,2025-10-16,Expired
+481,HP Printer,Appliance,12,Working,191,2024-06-27,2025-05-05,Claimed
+482,Microwave,Mobile,19,Damaged,868,2023-12-11,2025-06-24,Expired
+483,Samsung TV,Other,9,Damaged,949,2023-10-10,2024-05-25,Expired
+484,Microwave,Battery,2,Working,582,2025-09-10,2025-09-13,Claimed
+485,Sony Camera,Battery,4,Obsolete,494,2024-12-09,2025-05-23,Expired
+486,iPhone,Laptop,17,Damaged,477,2024-10-02,2025-02-24,Expired
+487,iPhone,Other,20,Working,252,2024-01-21,2024-09-28,Claimed
+488,Sony Camera,Mobile,18,Obsolete,320,2025-06-07,2025-09-16,Expired
+489,iPhone,Battery,18,Working,481,2025-09-28,2025-10-17,Claimed
+490,Microwave,Appliance,19,Obsolete,340,2024-10-26,2025-02-06,Claimed
+491,Dell Laptop,Battery,10,Working,37,2024-11-09,2024-12-06,Expired
+492,Microwave,Battery,19,Damaged,63,2023-10-25,2024-08-13,Expired
+493,HP Printer,Other,6,Obsolete,53,2025-07-23,2025-08-23,Expired
+494,Dell Laptop,Other,1,Damaged,497,2024-05-03,2025-04-25,Available
+495,Samsung TV,Other,3,Damaged,259,2023-11-28,2024-09-23,Available
+496,Microwave,Battery,9,Damaged,15,2024-06-27,2025-04-27,Expired
+497,iPhone,Other,6,Obsolete,757,2025-01-22,2025-04-07,Available
+498,Sony Camera,Appliance,12,Working,268,2025-02-01,2025-10-30,Expired
+499,Samsung TV,Appliance,6,Obsolete,883,2025-06-02,2025-10-31,Available
+500,Dell Laptop,Mobile,5,Obsolete,957,2024-11-20,2025-09-03,Available
+501,HP Printer,Appliance,13,Working,677,2024-08-22,2025-04-25,Claimed
+502,Sony Camera,Laptop,7,Obsolete,752,2023-11-25,2024-04-14,Claimed
+503,iPhone,Battery,4,Working,172,2023-10-21,2024-07-08,Claimed
+504,HP Printer,Appliance,10,Damaged,765,2024-04-23,2024-07-18,Expired
+505,Samsung TV,Appliance,13,Damaged,269,2024-07-03,2024-10-11,Available
+506,Microwave,Appliance,1,Damaged,950,2024-10-26,2024-11-05,Claimed
+507,HP Printer,Battery,17,Obsolete,979,2025-04-20,2025-10-24,Available
+508,iPhone,Other,12,Damaged,626,2024-10-25,2025-04-06,Expired
+509,Dell Laptop,Battery,9,Damaged,822,2025-08-15,2025-10-26,Available
+510,Dell Laptop,Other,13,Damaged,792,2024-05-21,2025-05-16,Expired
+511,Sony Camera,Laptop,19,Working,533,2025-05-19,2025-08-20,Claimed
+512,Sony Camera,Laptop,11,Obsolete,11,2023-10-08,2024-01-04,Expired
+513,iPhone,Mobile,1,Damaged,101,2024-08-23,2025-06-10,Expired
+514,iPhone,Appliance,12,Working,743,2024-01-17,2024-01-29,Claimed
+515,Dell Laptop,Laptop,2,Working,635,2025-08-19,2025-10-30,Available
+516,iPhone,Other,7,Obsolete,654,2024-01-27,2025-06-25,Available
+517,Sony Camera,Mobile,3,Obsolete,134,2024-04-04,2024-08-31,Claimed
+518,Sony Camera,Other,6,Working,713,2024-07-23,2024-10-28,Available
+519,Dell Laptop,Battery,15,Obsolete,959,2024-10-17,2024-10-28,Available
+520,Sony Camera,Appliance,9,Damaged,709,2024-08-07,2025-05-22,Expired
+521,Dell Laptop,Battery,6,Working,284,2025-05-20,2025-07-06,Available
+522,HP Printer,Appliance,11,Working,265,2025-03-08,2025-10-11,Claimed
+523,Samsung TV,Appliance,3,Damaged,951,2023-11-27,2024-05-06,Available
+524,Microwave,Appliance,6,Obsolete,504,2025-06-24,2025-09-23,Available
+525,Samsung TV,Other,14,Working,629,2024-11-24,2025-07-12,Expired
+526,iPhone,Appliance,9,Working,36,2024-06-15,2025-04-11,Available
+527,iPhone,Other,9,Damaged,20,2025-03-20,2025-05-12,Claimed
+528,Samsung TV,Mobile,2,Obsolete,400,2025-09-28,2025-10-07,Claimed
+529,Samsung TV,Battery,13,Obsolete,4,2024-06-12,2025-01-26,Expired
+530,Sony Camera,Appliance,16,Damaged,414,2025-08-02,2025-08-23,Expired
+531,iPhone,Other,8,Working,394,2024-07-11,2024-09-01,Expired
+532,HP Printer,Mobile,19,Obsolete,958,2024-02-05,2025-05-07,Claimed
+533,Dell Laptop,Battery,13,Working,648,2023-10-16,2024-06-13,Expired
+534,iPhone,Battery,18,Damaged,83,2024-07-07,2025-09-03,Claimed
+535,Dell Laptop,Laptop,6,Obsolete,41,2025-06-14,2025-10-01,Claimed
+536,Sony Camera,Laptop,10,Obsolete,400,2025-06-23,2025-09-11,Available
+537,Sony Camera,Battery,16,Working,907,2024-03-20,2025-09-20,Expired
+538,HP Printer,Laptop,5,Working,198,2024-12-03,2025-04-19,Available
+539,Sony Camera,Other,8,Damaged,399,2025-07-14,2025-09-22,Available
+540,Microwave,Battery,16,Obsolete,989,2024-01-17,2024-08-29,Claimed
+541,iPhone,Mobile,11,Working,346,2025-06-27,2025-07-06,Expired
+542,iPhone,Appliance,4,Working,827,2024-06-21,2024-07-21,Expired
+543,Sony Camera,Other,15,Obsolete,892,2023-11-15,2024-06-17,Expired
+544,Samsung TV,Other,8,Working,38,2025-07-05,2025-09-04,Expired
+545,Samsung TV,Appliance,1,Damaged,929,2025-06-05,2025-06-22,Expired
+546,iPhone,Laptop,5,Working,177,2025-05-03,2025-10-04,Expired
+547,iPhone,Battery,4,Damaged,626,2023-10-19,2025-05-10,Available
+548,Microwave,Mobile,4,Working,510,2024-08-07,2025-05-30,Expired
+549,Microwave,Laptop,3,Working,437,2025-05-17,2025-08-04,Claimed
+550,Sony Camera,Appliance,11,Working,1000,2023-10-11,2024-07-27,Expired
+551,Microwave,Other,5,Damaged,857,2024-12-06,2025-06-23,Available
+552,iPhone,Other,6,Damaged,65,2023-11-05,2025-01-27,Available
+553,Dell Laptop,Laptop,14,Working,714,2024-06-03,2025-08-18,Claimed
+554,Microwave,Laptop,15,Working,948,2024-01-31,2025-06-12,Expired
+555,iPhone,Laptop,4,Obsolete,628,2024-04-21,2024-10-01,Claimed
+556,Samsung TV,Mobile,16,Working,7,2024-12-24,2025-08-29,Available
+557,Samsung TV,Mobile,19,Damaged,427,2025-02-20,2025-09-03,Expired
+558,HP Printer,Laptop,7,Working,656,2023-12-07,2024-08-24,Claimed
+559,Microwave,Appliance,14,Working,961,2024-11-13,2025-07-14,Available
+560,Microwave,Mobile,20,Working,735,2024-11-02,2025-02-05,Claimed
+561,Microwave,Mobile,10,Damaged,429,2024-02-05,2024-06-04,Available
+562,Microwave,Laptop,7,Working,543,2024-07-19,2025-08-02,Available
+563,Microwave,Battery,18,Obsolete,225,2023-11-14,2024-03-23,Claimed
+564,Sony Camera,Laptop,9,Working,199,2023-12-27,2024-03-19,Available
+565,Samsung TV,Appliance,16,Working,164,2024-08-16,2025-10-11,Expired
+566,iPhone,Mobile,12,Damaged,215,2025-05-05,2025-07-19,Claimed
+567,Dell Laptop,Battery,20,Damaged,45,2024-08-09,2024-09-11,Available
+568,Sony Camera,Mobile,18,Working,162,2024-02-03,2025-10-30,Available
+569,HP Printer,Other,4,Working,917,2024-11-23,2025-07-17,Available
+570,Sony Camera,Appliance,19,Obsolete,334,2025-03-03,2025-05-12,Claimed
+571,Samsung TV,Battery,8,Working,334,2024-11-12,2025-10-19,Available
+572,iPhone,Laptop,14,Working,385,2025-07-24,2025-08-11,Available
+573,iPhone,Appliance,19,Damaged,56,2024-04-18,2025-08-08,Claimed
+574,Samsung TV,Laptop,20,Damaged,183,2024-10-28,2025-06-20,Claimed
+575,Dell Laptop,Laptop,15,Obsolete,199,2024-08-02,2025-04-30,Expired
+576,Dell Laptop,Battery,7,Damaged,131,2025-08-22,2025-10-03,Available
+577,Sony Camera,Other,2,Damaged,140,2025-07-31,2025-10-02,Available
+578,HP Printer,Appliance,14,Working,779,2025-01-01,2025-09-15,Claimed
+579,Samsung TV,Battery,20,Working,809,2025-07-25,2025-08-12,Expired
+580,Microwave,Laptop,19,Obsolete,876,2025-07-05,2025-10-06,Available
+581,iPhone,Appliance,17,Damaged,883,2024-12-03,2025-01-14,Available
+582,Microwave,Appliance,15,Damaged,15,2025-05-18,2025-07-28,Expired
+583,HP Printer,Laptop,8,Damaged,445,2024-04-19,2025-09-25,Expired
+584,Samsung TV,Other,5,Obsolete,920,2025-05-06,2025-08-21,Available
+585,HP Printer,Mobile,2,Damaged,752,2025-03-27,2025-06-08,Expired
+586,iPhone,Appliance,17,Damaged,491,2024-07-26,2024-10-01,Expired
+587,iPhone,Appliance,16,Working,86,2025-04-29,2025-09-27,Expired
+588,iPhone,Appliance,7,Working,368,2023-11-24,2024-07-26,Claimed
+589,Samsung TV,Mobile,1,Damaged,686,2024-04-06,2025-06-13,Claimed
+590,Samsung TV,Appliance,19,Obsolete,598,2024-03-21,2024-09-09,Available
+591,HP Printer,Appliance,5,Obsolete,416,2024-07-21,2025-05-18,Available
+592,Dell Laptop,Appliance,1,Obsolete,73,2025-05-15,2025-09-16,Claimed
+593,Sony Camera,Battery,17,Working,304,2025-07-21,2025-09-18,Claimed
+594,Dell Laptop,Other,18,Obsolete,814,2024-05-10,2025-08-11,Available
+595,Sony Camera,Mobile,20,Damaged,754,2024-03-02,2024-10-07,Available
+596,Microwave,Battery,2,Working,393,2024-09-28,2025-05-05,Claimed
+597,HP Printer,Other,2,Damaged,376,2024-03-27,2024-05-06,Available
+598,Sony Camera,Other,3,Obsolete,727,2024-03-30,2024-11-13,Available
+599,Samsung TV,Battery,8,Obsolete,117,2025-02-12,2025-04-08,Expired
+600,HP Printer,Other,7,Obsolete,780,2024-08-31,2025-08-27,Available
+601,Dell Laptop,Battery,9,Obsolete,697,2024-11-30,2025-09-16,Claimed
+602,Dell Laptop,Mobile,3,Damaged,354,2025-05-27,2025-07-18,Claimed
+603,HP Printer,Other,17,Working,482,2025-06-23,2025-08-28,Expired
+604,Microwave,Other,10,Damaged,636,2025-06-15,2025-08-30,Claimed
+605,Sony Camera,Mobile,7,Damaged,90,2024-09-03,2024-10-23,Available
+606,HP Printer,Laptop,10,Working,112,2023-12-25,2025-08-12,Available
+607,Dell Laptop,Mobile,5,Damaged,155,2024-06-13,2025-03-11,Available
+608,Microwave,Mobile,10,Damaged,993,2024-08-06,2025-10-16,Expired
+609,Microwave,Laptop,16,Damaged,431,2025-02-14,2025-03-15,Claimed
+610,Sony Camera,Mobile,10,Working,65,2025-08-26,2025-10-04,Available
+611,Samsung TV,Other,11,Damaged,593,2025-09-15,2025-09-15,Claimed
+612,Sony Camera,Battery,16,Obsolete,682,2025-01-07,2025-06-04,Expired
+613,Microwave,Other,15,Damaged,312,2024-05-27,2025-10-30,Expired
+614,Samsung TV,Battery,6,Damaged,233,2023-11-15,2024-08-28,Claimed
+615,Dell Laptop,Battery,2,Working,362,2024-09-06,2025-10-08,Claimed
+616,HP Printer,Laptop,20,Working,729,2024-10-19,2025-09-13,Expired
+617,Dell Laptop,Laptop,6,Obsolete,710,2024-08-29,2025-07-19,Expired
+618,Samsung TV,Laptop,8,Working,43,2023-10-23,2025-06-06,Claimed
+619,Microwave,Laptop,15,Damaged,379,2025-05-24,2025-10-13,Available
+620,Samsung TV,Other,2,Obsolete,325,2023-11-30,2024-11-29,Claimed
+621,Samsung TV,Battery,15,Obsolete,999,2025-09-25,2025-10-21,Available
+622,Microwave,Battery,4,Working,415,2024-02-01,2025-07-10,Claimed
+623,Samsung TV,Appliance,11,Working,5,2025-01-27,2025-06-23,Expired
+624,Microwave,Other,11,Obsolete,723,2025-07-25,2025-08-12,Claimed
+625,HP Printer,Battery,19,Obsolete,151,2025-08-04,2025-10-26,Expired
+626,Sony Camera,Appliance,11,Obsolete,116,2024-05-09,2025-09-09,Expired
+627,HP Printer,Mobile,5,Obsolete,565,2024-10-01,2025-03-26,Available
+628,Dell Laptop,Mobile,13,Obsolete,862,2023-10-15,2024-09-30,Available
+629,HP Printer,Battery,3,Damaged,57,2024-05-16,2025-07-10,Expired
+630,Sony Camera,Laptop,19,Obsolete,228,2025-04-12,2025-04-23,Claimed
+631,Samsung TV,Mobile,3,Obsolete,870,2024-01-26,2025-01-14,Claimed
+632,Sony Camera,Mobile,17,Damaged,200,2025-01-08,2025-07-20,Claimed
+633,Dell Laptop,Other,20,Obsolete,967,2025-04-21,2025-09-06,Available
+634,Sony Camera,Battery,13,Working,734,2025-03-28,2025-05-18,Claimed
+635,Dell Laptop,Appliance,12,Working,292,2025-09-01,2025-10-19,Claimed
+636,Dell Laptop,Battery,15,Obsolete,90,2024-03-07,2024-03-16,Available
+637,Sony Camera,Appliance,14,Damaged,296,2023-12-27,2025-09-26,Available
+638,Sony Camera,Appliance,14,Working,856,2024-12-31,2025-08-26,Expired
+639,Microwave,Mobile,5,Working,311,2024-08-28,2025-04-21,Claimed
+640,Microwave,Battery,3,Obsolete,775,2024-08-04,2025-05-20,Claimed
+641,iPhone,Mobile,14,Obsolete,937,2025-06-10,2025-07-09,Claimed
+642,HP Printer,Laptop,18,Damaged,728,2023-12-23,2024-12-26,Expired
+643,Samsung TV,Laptop,6,Damaged,297,2024-05-15,2025-02-27,Expired
+644,HP Printer,Mobile,10,Obsolete,312,2025-02-19,2025-07-21,Claimed
+645,Microwave,Appliance,8,Working,811,2024-06-02,2025-08-07,Available
+646,Samsung TV,Battery,10,Obsolete,855,2024-12-27,2025-09-22,Expired
+647,HP Printer,Mobile,10,Damaged,184,2024-11-29,2025-06-25,Claimed
+648,Sony Camera,Laptop,1,Working,784,2024-04-25,2024-09-23,Claimed
+649,HP Printer,Mobile,20,Obsolete,371,2025-06-16,2025-10-01,Expired
+650,HP Printer,Other,14,Damaged,644,2024-08-26,2025-04-12,Expired
+651,HP Printer,Mobile,12,Obsolete,751,2025-07-05,2025-09-01,Expired
+652,iPhone,Battery,6,Obsolete,60,2025-07-17,2025-08-29,Available
+653,Dell Laptop,Appliance,5,Damaged,168,2025-03-19,2025-10-21,Available
+654,Dell Laptop,Battery,14,Obsolete,934,2023-10-19,2025-03-20,Claimed
+655,iPhone,Battery,10,Obsolete,655,2024-08-01,2025-09-10,Available
+656,Microwave,Laptop,6,Working,614,2024-05-01,2024-07-22,Available
+657,Microwave,Battery,11,Obsolete,820,2025-07-04,2025-08-31,Claimed
+658,Dell Laptop,Battery,4,Obsolete,594,2024-07-18,2025-07-15,Claimed
+659,Samsung TV,Mobile,5,Obsolete,289,2025-08-23,2025-10-17,Claimed
+660,HP Printer,Appliance,11,Working,105,2024-07-02,2025-03-28,Available
+661,Samsung TV,Other,8,Working,815,2025-04-26,2025-09-30,Expired
+662,Microwave,Other,18,Obsolete,565,2025-07-31,2025-10-09,Expired
+663,iPhone,Appliance,15,Working,120,2025-06-13,2025-09-09,Available
+664,iPhone,Appliance,12,Damaged,708,2024-03-03,2025-05-06,Claimed
+665,Samsung TV,Appliance,20,Obsolete,782,2025-08-03,2025-08-09,Claimed
+666,Samsung TV,Battery,1,Obsolete,835,2024-06-23,2025-10-27,Available
+667,Samsung TV,Laptop,5,Obsolete,233,2024-08-26,2025-08-12,Claimed
+668,Samsung TV,Laptop,5,Working,436,2024-12-24,2025-08-12,Expired
+669,iPhone,Mobile,1,Damaged,776,2024-09-30,2025-01-09,Claimed
+670,iPhone,Laptop,4,Working,813,2024-11-16,2024-12-17,Expired
+671,Microwave,Other,2,Damaged,122,2024-06-25,2025-05-20,Claimed
+672,iPhone,Mobile,10,Obsolete,11,2023-12-06,2024-04-30,Available
+673,iPhone,Other,7,Obsolete,923,2025-02-17,2025-02-25,Available
+674,Samsung TV,Battery,1,Working,150,2024-01-07,2025-09-11,Expired
+675,Dell Laptop,Other,12,Damaged,165,2025-01-31,2025-04-29,Expired
+676,Sony Camera,Other,8,Obsolete,584,2025-07-28,2025-08-12,Available
+677,iPhone,Other,1,Obsolete,223,2025-06-01,2025-09-02,Expired
+678,Samsung TV,Battery,6,Obsolete,5,2025-08-09,2025-09-17,Expired
+679,iPhone,Laptop,17,Obsolete,487,2024-03-17,2025-06-22,Claimed
+680,Sony Camera,Other,6,Damaged,690,2025-08-27,2025-09-04,Available
+681,Samsung TV,Battery,13,Damaged,220,2024-08-03,2025-03-11,Expired
+682,Samsung TV,Appliance,4,Damaged,127,2025-05-28,2025-09-21,Claimed
+683,iPhone,Other,5,Damaged,781,2024-10-23,2025-01-11,Claimed
+684,Sony Camera,Battery,18,Obsolete,42,2025-05-23,2025-10-29,Available
+685,Dell Laptop,Appliance,4,Damaged,291,2024-12-23,2025-06-16,Claimed
+686,Microwave,Battery,15,Working,568,2024-08-02,2025-09-12,Claimed
+687,Dell Laptop,Appliance,7,Working,917,2024-09-26,2025-07-20,Claimed
+688,Sony Camera,Battery,6,Working,691,2024-07-12,2025-10-08,Claimed
+689,Sony Camera,Mobile,13,Damaged,536,2025-09-05,2025-10-14,Expired
+690,Sony Camera,Mobile,4,Working,405,2024-05-18,2025-06-09,Claimed
+691,Sony Camera,Other,4,Obsolete,948,2023-12-25,2025-02-11,Available
+692,iPhone,Battery,7,Damaged,206,2025-06-06,2025-06-21,Expired
+693,HP Printer,Mobile,8,Damaged,743,2025-03-08,2025-09-11,Claimed
+694,Dell Laptop,Other,19,Damaged,775,2024-07-04,2024-12-27,Expired
+695,HP Printer,Battery,16,Obsolete,618,2024-04-25,2024-05-25,Claimed
+696,HP Printer,Other,9,Working,787,2024-12-26,2025-06-11,Claimed
+697,iPhone,Mobile,9,Damaged,510,2023-12-24,2025-04-29,Available
+698,Sony Camera,Laptop,1,Working,756,2024-12-21,2025-08-26,Available
+699,iPhone,Appliance,1,Working,392,2025-01-23,2025-07-13,Expired
+700,Sony Camera,Battery,5,Damaged,637,2025-05-23,2025-09-22,Expired
+701,iPhone,Mobile,17,Damaged,812,2025-07-14,2025-09-18,Claimed
+702,Samsung TV,Battery,16,Damaged,517,2023-12-29,2024-03-05,Claimed
+703,Microwave,Battery,18,Obsolete,19,2025-06-17,2025-09-19,Available
+704,HP Printer,Mobile,13,Damaged,323,2024-06-03,2025-04-24,Claimed
+705,HP Printer,Appliance,2,Working,182,2024-03-19,2024-10-24,Expired
+706,Sony Camera,Battery,6,Damaged,442,2025-06-30,2025-08-23,Available
+707,Dell Laptop,Appliance,16,Working,583,2023-11-16,2024-10-01,Expired
+708,HP Printer,Other,18,Obsolete,482,2023-11-09,2024-03-06,Claimed
+709,Microwave,Laptop,17,Working,401,2024-01-01,2024-01-28,Claimed
+710,HP Printer,Other,13,Obsolete,693,2024-12-31,2025-02-08,Claimed
+711,Dell Laptop,Battery,2,Working,605,2025-08-20,2025-09-26,Available
+712,Samsung TV,Battery,12,Obsolete,598,2025-06-24,2025-07-29,Available
+713,Sony Camera,Battery,13,Working,439,2024-09-02,2025-07-21,Claimed
+714,Dell Laptop,Appliance,12,Working,678,2025-01-26,2025-07-07,Available
+715,Samsung TV,Laptop,10,Obsolete,87,2025-09-18,2025-10-11,Expired
+716,iPhone,Battery,4,Damaged,174,2024-02-05,2025-09-26,Available
+717,Microwave,Battery,2,Damaged,674,2025-05-26,2025-08-22,Claimed
+718,Microwave,Other,14,Damaged,21,2025-06-05,2025-09-10,Expired
+719,HP Printer,Other,1,Damaged,387,2025-03-26,2025-06-26,Expired
+720,HP Printer,Battery,19,Working,828,2024-03-16,2024-07-30,Claimed
+721,iPhone,Laptop,11,Damaged,515,2025-06-21,2025-07-25,Expired
+722,Dell Laptop,Laptop,20,Damaged,373,2024-07-22,2024-12-30,Claimed
+723,Samsung TV,Appliance,3,Obsolete,220,2024-10-18,2025-01-03,Claimed
+724,Dell Laptop,Mobile,10,Obsolete,412,2023-11-21,2025-02-01,Available
+725,Microwave,Mobile,19,Working,607,2024-08-17,2025-09-22,Claimed
+726,Dell Laptop,Mobile,19,Obsolete,487,2024-02-14,2024-10-07,Claimed
+727,Samsung TV,Battery,3,Obsolete,844,2024-02-29,2025-01-20,Claimed
+728,Microwave,Battery,14,Obsolete,553,2024-12-26,2025-07-08,Claimed
+729,Samsung TV,Appliance,13,Damaged,640,2023-11-26,2025-07-03,Expired
+730,HP Printer,Other,6,Working,643,2024-01-08,2024-02-12,Expired
+731,Microwave,Laptop,19,Damaged,219,2023-11-05,2024-10-04,Expired
+732,Sony Camera,Appliance,9,Obsolete,546,2024-10-03,2025-09-16,Expired
+733,HP Printer,Other,2,Obsolete,206,2024-02-01,2024-12-24,Claimed
+734,HP Printer,Laptop,8,Working,765,2024-09-22,2024-12-24,Expired
+735,Dell Laptop,Appliance,14,Damaged,881,2024-07-15,2025-06-07,Available
+736,Sony Camera,Laptop,14,Damaged,844,2024-12-29,2025-01-31,Claimed
+737,Sony Camera,Laptop,9,Obsolete,616,2025-02-08,2025-06-05,Available
+738,HP Printer,Laptop,4,Working,197,2025-04-16,2025-10-15,Available
+739,Samsung TV,Battery,15,Damaged,574,2025-06-18,2025-06-20,Claimed
+740,HP Printer,Mobile,7,Working,280,2023-11-27,2024-03-28,Available
+741,iPhone,Battery,9,Obsolete,564,2025-01-24,2025-08-22,Available
+742,Sony Camera,Mobile,16,Working,57,2024-03-14,2025-08-20,Available
+743,Dell Laptop,Other,10,Working,923,2025-05-20,2025-09-10,Claimed
+744,Dell Laptop,Mobile,13,Obsolete,863,2025-05-05,2025-10-01,Available
+745,Samsung TV,Mobile,19,Obsolete,513,2024-04-17,2025-10-01,Available
+746,Microwave,Other,17,Damaged,509,2024-07-05,2025-02-17,Available
+747,Samsung TV,Other,4,Damaged,338,2023-12-02,2025-10-14,Expired
+748,Sony Camera,Appliance,8,Damaged,224,2025-05-31,2025-08-13,Available
+749,iPhone,Laptop,7,Damaged,451,2024-05-03,2025-02-27,Claimed
+750,Dell Laptop,Other,2,Damaged,547,2023-10-23,2024-11-04,Claimed
+751,Sony Camera,Mobile,11,Obsolete,434,2025-03-17,2025-04-27,Claimed
+752,Sony Camera,Laptop,9,Working,372,2024-06-30,2024-08-01,Claimed
+753,Sony Camera,Battery,10,Working,661,2023-10-02,2024-09-01,Expired
+754,iPhone,Mobile,8,Damaged,566,2025-02-10,2025-10-31,Claimed
+755,Dell Laptop,Battery,4,Obsolete,888,2024-08-02,2025-04-28,Available
+756,HP Printer,Appliance,1,Damaged,950,2025-09-10,2025-09-26,Claimed
+757,Dell Laptop,Mobile,8,Damaged,216,2024-12-01,2025-04-08,Available
+758,HP Printer,Battery,14,Working,281,2025-09-03,2025-09-22,Available
+759,HP Printer,Appliance,14,Damaged,735,2023-11-09,2023-12-03,Claimed
+760,iPhone,Laptop,9,Obsolete,68,2024-04-21,2024-12-31,Claimed
+761,HP Printer,Other,18,Obsolete,335,2024-07-18,2025-07-17,Claimed
+762,Sony Camera,Mobile,2,Obsolete,657,2025-03-24,2025-10-07,Available
+763,Sony Camera,Appliance,5,Working,411,2025-08-18,2025-09-25,Available
+764,Sony Camera,Battery,11,Obsolete,85,2024-11-19,2025-10-20,Available
+765,Samsung TV,Laptop,17,Obsolete,993,2025-06-14,2025-08-18,Expired
+766,Samsung TV,Other,14,Damaged,463,2025-01-24,2025-04-04,Claimed
+767,Sony Camera,Laptop,9,Working,704,2024-01-26,2024-05-22,Expired
+768,Dell Laptop,Battery,7,Working,425,2025-08-01,2025-08-13,Claimed
+769,Samsung TV,Appliance,13,Obsolete,230,2025-08-04,2025-10-14,Available
+770,iPhone,Other,20,Obsolete,235,2023-11-11,2023-11-25,Available
+771,HP Printer,Laptop,9,Obsolete,873,2025-05-21,2025-08-03,Available
+772,iPhone,Appliance,20,Damaged,615,2025-09-20,2025-10-28,Claimed
+773,Samsung TV,Mobile,12,Working,970,2024-06-27,2025-10-24,Expired
+774,iPhone,Mobile,17,Damaged,792,2025-09-01,2025-10-17,Claimed
+775,Sony Camera,Appliance,4,Working,731,2025-02-15,2025-08-09,Available
+776,Samsung TV,Battery,10,Obsolete,507,2024-05-26,2025-10-06,Claimed
+777,Samsung TV,Appliance,7,Obsolete,221,2023-12-30,2024-08-16,Claimed
+778,Sony Camera,Laptop,14,Working,419,2024-04-30,2024-08-13,Available
+779,iPhone,Battery,9,Working,633,2025-02-08,2025-03-01,Claimed
+780,Samsung TV,Battery,19,Obsolete,663,2023-12-05,2025-01-02,Claimed
+781,iPhone,Mobile,16,Working,893,2025-02-24,2025-02-24,Claimed
+782,Sony Camera,Appliance,7,Obsolete,393,2024-03-13,2024-10-20,Expired
+783,HP Printer,Other,9,Working,98,2024-01-21,2024-01-21,Expired
+784,iPhone,Mobile,11,Working,483,2025-04-11,2025-09-05,Claimed
+785,Microwave,Other,2,Working,260,2025-04-23,2025-10-20,Expired
+786,Microwave,Appliance,10,Damaged,688,2024-12-01,2025-05-31,Claimed
+787,Samsung TV,Other,2,Obsolete,184,2025-07-21,2025-08-23,Claimed
+788,Samsung TV,Other,16,Damaged,899,2023-11-23,2024-12-15,Claimed
+789,Samsung TV,Mobile,11,Obsolete,544,2023-10-23,2024-05-27,Claimed
+790,Samsung TV,Battery,4,Damaged,46,2025-07-11,2025-10-02,Available
+791,HP Printer,Battery,12,Damaged,290,2024-08-21,2025-10-02,Claimed
+792,Microwave,Battery,17,Damaged,447,2024-10-03,2024-10-24,Available
+793,Dell Laptop,Appliance,5,Obsolete,874,2025-02-27,2025-10-01,Expired
+794,Sony Camera,Appliance,2,Working,153,2024-01-03,2025-09-14,Available
+795,Samsung TV,Laptop,2,Damaged,267,2024-10-15,2025-06-09,Available
+796,Sony Camera,Appliance,14,Working,917,2024-07-29,2024-11-16,Claimed
+797,iPhone,Appliance,12,Obsolete,575,2024-01-06,2024-03-08,Claimed
+798,HP Printer,Appliance,4,Obsolete,888,2024-09-02,2025-09-12,Available
+799,iPhone,Battery,3,Working,890,2023-12-25,2024-04-17,Claimed
+800,Samsung TV,Laptop,17,Damaged,577,2024-04-01,2024-05-02,Expired
+801,Microwave,Laptop,19,Working,539,2024-04-25,2025-02-21,Expired
+802,Samsung TV,Appliance,3,Working,787,2025-03-25,2025-08-05,Claimed
+803,Sony Camera,Mobile,11,Working,292,2024-10-30,2025-01-25,Expired
+804,Sony Camera,Mobile,13,Damaged,605,2025-08-17,2025-09-24,Available
+805,Dell Laptop,Laptop,1,Working,472,2025-06-19,2025-08-28,Expired
+806,Sony Camera,Appliance,15,Obsolete,979,2025-01-13,2025-09-06,Claimed
+807,Microwave,Mobile,11,Working,672,2024-11-23,2024-11-23,Expired
+808,HP Printer,Battery,19,Working,217,2025-05-04,2025-09-25,Available
+809,Sony Camera,Battery,11,Working,762,2025-03-08,2025-04-14,Available
+810,Microwave,Other,13,Working,409,2024-08-12,2025-06-30,Claimed
+811,Samsung TV,Laptop,13,Working,22,2024-07-06,2025-09-02,Available
+812,Samsung TV,Appliance,13,Damaged,663,2025-06-27,2025-07-16,Expired
+813,Samsung TV,Mobile,10,Damaged,821,2025-07-08,2025-08-20,Claimed
+814,Sony Camera,Battery,20,Working,368,2024-08-24,2025-07-06,Expired
+815,iPhone,Battery,17,Working,502,2025-03-30,2025-06-01,Claimed
+816,HP Printer,Appliance,9,Obsolete,615,2024-02-08,2025-09-21,Claimed
+817,iPhone,Appliance,12,Obsolete,191,2024-01-28,2024-02-26,Claimed
+818,Sony Camera,Appliance,3,Working,526,2024-11-26,2025-04-21,Claimed
+819,HP Printer,Laptop,5,Damaged,540,2025-08-02,2025-08-08,Expired
+820,Sony Camera,Other,3,Damaged,480,2025-03-16,2025-03-26,Claimed
+821,iPhone,Appliance,10,Working,131,2024-01-18,2024-04-05,Expired
+822,Dell Laptop,Laptop,17,Damaged,303,2024-04-03,2024-04-19,Expired
+823,iPhone,Other,3,Working,526,2025-04-04,2025-08-23,Available
+824,Microwave,Appliance,14,Working,476,2023-10-21,2025-08-29,Expired
+825,Sony Camera,Other,9,Damaged,261,2024-12-18,2025-05-14,Expired
+826,iPhone,Other,1,Working,759,2025-07-07,2025-08-21,Expired
+827,HP Printer,Laptop,6,Damaged,47,2025-01-11,2025-08-21,Available
+828,HP Printer,Battery,11,Obsolete,742,2024-04-21,2025-05-02,Claimed
+829,Sony Camera,Appliance,20,Damaged,350,2024-12-02,2025-02-15,Available
+830,Samsung TV,Laptop,3,Obsolete,619,2025-08-25,2025-09-22,Claimed
+831,Sony Camera,Mobile,14,Obsolete,19,2024-11-16,2025-06-16,Available
+832,HP Printer,Mobile,1,Working,672,2023-11-26,2025-05-18,Claimed
+833,HP Printer,Appliance,20,Obsolete,499,2024-04-25,2025-02-26,Claimed
+834,Microwave,Other,12,Obsolete,690,2023-10-06,2025-05-16,Expired
+835,Sony Camera,Appliance,10,Working,129,2025-03-07,2025-10-09,Available
+836,iPhone,Laptop,4,Working,713,2024-01-22,2024-08-11,Available
+837,iPhone,Laptop,16,Obsolete,149,2025-03-25,2025-09-13,Expired
+838,Samsung TV,Appliance,18,Working,89,2024-05-23,2024-06-04,Claimed
+839,HP Printer,Laptop,16,Damaged,23,2025-04-29,2025-07-28,Available
+840,Samsung TV,Laptop,15,Damaged,483,2024-12-14,2025-09-08,Available
+841,HP Printer,Other,8,Working,302,2025-07-28,2025-08-26,Expired
+842,HP Printer,Mobile,11,Working,106,2025-09-19,2025-09-29,Expired
+843,Sony Camera,Appliance,14,Damaged,755,2024-05-30,2025-01-27,Expired
+844,Microwave,Other,10,Working,500,2024-05-10,2024-08-05,Claimed
+845,HP Printer,Other,19,Obsolete,627,2025-03-05,2025-09-02,Expired
+846,HP Printer,Laptop,2,Obsolete,20,2025-07-02,2025-09-11,Claimed
+847,Microwave,Battery,18,Working,275,2024-07-20,2025-06-18,Expired
+848,HP Printer,Appliance,4,Damaged,638,2025-07-21,2025-10-03,Expired
+849,Dell Laptop,Appliance,14,Working,166,2023-12-10,2025-09-15,Claimed
+850,Sony Camera,Laptop,16,Damaged,449,2025-01-10,2025-06-13,Available
+851,Microwave,Laptop,19,Obsolete,348,2024-02-23,2024-05-01,Expired
+852,Sony Camera,Appliance,5,Damaged,741,2024-03-22,2024-08-01,Expired
+853,HP Printer,Appliance,12,Damaged,819,2024-04-02,2025-06-29,Available
+854,Microwave,Laptop,10,Obsolete,768,2025-09-28,2025-10-06,Available
+855,Sony Camera,Appliance,5,Working,205,2025-01-25,2025-06-19,Available
+856,Microwave,Appliance,4,Damaged,966,2023-10-09,2024-01-05,Claimed
+857,Dell Laptop,Laptop,7,Obsolete,49,2025-09-13,2025-10-29,Available
+858,Dell Laptop,Battery,12,Obsolete,163,2025-06-22,2025-09-04,Available
+859,Microwave,Mobile,3,Damaged,441,2023-12-04,2024-01-03,Available
+860,Microwave,Laptop,4,Obsolete,230,2025-05-17,2025-06-23,Claimed
+861,Dell Laptop,Battery,12,Working,789,2024-01-14,2025-09-28,Expired
+862,Dell Laptop,Laptop,17,Obsolete,686,2023-12-20,2024-10-19,Available
+863,Sony Camera,Mobile,15,Damaged,986,2024-06-21,2025-07-16,Available
+864,iPhone,Other,20,Working,844,2025-04-02,2025-04-03,Expired
+865,iPhone,Other,4,Working,646,2024-12-07,2025-06-03,Available
+866,Samsung TV,Battery,6,Obsolete,300,2024-01-26,2024-11-14,Expired
+867,HP Printer,Other,16,Obsolete,892,2025-03-04,2025-09-04,Available
+868,Samsung TV,Battery,11,Working,126,2025-03-12,2025-03-25,Available
+869,HP Printer,Appliance,1,Working,855,2025-08-09,2025-10-15,Claimed
+870,Dell Laptop,Battery,17,Working,88,2024-06-15,2024-08-12,Claimed
+871,Dell Laptop,Appliance,12,Obsolete,681,2025-04-20,2025-06-03,Available
+872,Samsung TV,Other,14,Working,142,2025-01-25,2025-04-22,Claimed
+873,HP Printer,Appliance,15,Obsolete,814,2025-07-19,2025-10-28,Expired
+874,Dell Laptop,Mobile,15,Working,789,2024-11-20,2025-02-11,Available
+875,Sony Camera,Other,3,Working,347,2025-09-23,2025-10-25,Claimed
+876,HP Printer,Laptop,14,Working,403,2023-11-19,2025-03-01,Available
+877,Sony Camera,Laptop,19,Working,647,2023-10-16,2024-05-13,Expired
+878,Sony Camera,Other,10,Damaged,412,2024-06-23,2025-10-22,Expired
+879,Sony Camera,Other,10,Obsolete,761,2024-11-01,2024-12-04,Claimed
+880,Dell Laptop,Mobile,9,Obsolete,626,2024-08-03,2025-08-03,Available
+881,Sony Camera,Appliance,15,Obsolete,211,2025-07-13,2025-08-18,Expired
+882,Microwave,Other,15,Obsolete,354,2025-01-10,2025-02-11,Expired
+883,HP Printer,Laptop,10,Working,38,2025-01-10,2025-04-14,Expired
+884,Dell Laptop,Appliance,5,Obsolete,554,2023-10-09,2024-05-06,Claimed
+885,Samsung TV,Mobile,17,Obsolete,320,2024-01-10,2025-09-06,Expired
+886,Dell Laptop,Laptop,1,Working,912,2023-10-27,2024-01-02,Expired
+887,Microwave,Battery,8,Damaged,744,2024-12-11,2025-05-02,Claimed
+888,Microwave,Mobile,2,Damaged,266,2024-12-29,2025-01-21,Expired
+889,Microwave,Battery,4,Working,775,2025-05-23,2025-07-29,Expired
+890,iPhone,Appliance,10,Obsolete,755,2024-02-03,2025-02-08,Available
+891,HP Printer,Battery,8,Obsolete,596,2024-03-26,2024-06-20,Expired
+892,Sony Camera,Other,20,Working,359,2023-12-01,2025-07-17,Claimed
+893,Dell Laptop,Other,5,Obsolete,387,2024-12-02,2025-05-21,Expired
+894,Sony Camera,Laptop,4,Damaged,529,2025-08-13,2025-09-20,Expired
+895,Samsung TV,Battery,15,Working,151,2024-06-30,2025-05-15,Expired
+896,HP Printer,Appliance,3,Working,64,2024-10-17,2025-10-10,Claimed
+897,Samsung TV,Appliance,7,Damaged,80,2024-02-23,2024-07-16,Claimed
+898,Sony Camera,Other,13,Obsolete,573,2024-05-02,2024-07-24,Expired
+899,HP Printer,Battery,19,Damaged,652,2024-01-31,2025-03-02,Claimed
+900,HP Printer,Appliance,14,Working,148,2024-07-30,2025-04-16,Expired
+901,Samsung TV,Appliance,15,Working,992,2025-04-19,2025-04-28,Expired
+902,Microwave,Other,4,Obsolete,218,2025-03-28,2025-07-02,Claimed
+903,HP Printer,Mobile,6,Obsolete,379,2025-07-20,2025-10-28,Available
+904,Microwave,Appliance,4,Working,379,2024-05-31,2024-09-04,Expired
+905,Dell Laptop,Mobile,17,Working,121,2023-11-13,2024-01-26,Claimed
+906,Dell Laptop,Battery,10,Damaged,498,2025-09-30,2025-10-27,Available
+907,Samsung TV,Laptop,19,Damaged,50,2024-07-02,2025-09-26,Claimed
+908,Dell Laptop,Laptop,6,Obsolete,501,2025-01-13,2025-09-14,Available
+909,iPhone,Other,12,Working,892,2025-04-06,2025-06-17,Available
+910,HP Printer,Appliance,19,Damaged,580,2024-02-02,2024-06-21,Claimed
+911,Dell Laptop,Appliance,16,Obsolete,854,2024-04-24,2025-07-22,Expired
+912,Samsung TV,Laptop,17,Obsolete,472,2024-02-17,2025-08-06,Claimed
+913,Sony Camera,Appliance,5,Obsolete,334,2025-08-11,2025-09-06,Available
+914,Microwave,Other,14,Damaged,239,2024-04-16,2024-11-06,Claimed
+915,Dell Laptop,Other,2,Obsolete,912,2023-10-23,2025-05-01,Claimed
+916,Sony Camera,Battery,3,Working,725,2025-04-30,2025-07-16,Available
+917,Microwave,Battery,18,Obsolete,127,2024-09-01,2024-11-06,Expired
+918,Microwave,Mobile,7,Obsolete,555,2025-07-24,2025-09-29,Expired
+919,iPhone,Other,17,Working,769,2024-12-20,2025-08-21,Claimed
+920,Microwave,Mobile,4,Obsolete,959,2024-02-16,2025-08-07,Expired
+921,Samsung TV,Mobile,9,Working,252,2024-01-09,2024-04-22,Expired
+922,Microwave,Appliance,3,Obsolete,622,2023-11-11,2025-09-21,Claimed
+923,HP Printer,Other,2,Damaged,883,2025-01-02,2025-07-11,Available
+924,Dell Laptop,Appliance,6,Damaged,25,2025-07-05,2025-09-17,Expired
+925,Dell Laptop,Appliance,9,Working,118,2025-03-29,2025-07-14,Available
+926,Microwave,Laptop,10,Working,188,2025-06-29,2025-10-11,Claimed
+927,iPhone,Laptop,10,Damaged,695,2024-07-28,2024-09-17,Available
+928,iPhone,Other,11,Working,28,2024-12-03,2025-02-14,Expired
+929,iPhone,Battery,13,Working,328,2025-05-05,2025-08-21,Available
+930,HP Printer,Battery,9,Damaged,965,2024-02-09,2024-11-05,Available
+931,iPhone,Laptop,8,Obsolete,601,2025-06-17,2025-08-21,Available
+932,HP Printer,Other,17,Damaged,973,2025-03-19,2025-05-04,Available
+933,Dell Laptop,Mobile,11,Damaged,567,2024-05-17,2024-11-03,Claimed
+934,iPhone,Appliance,1,Damaged,649,2024-02-16,2024-04-13,Available
+935,iPhone,Battery,18,Obsolete,692,2025-06-10,2025-07-02,Available
+936,Samsung TV,Other,5,Damaged,582,2025-04-04,2025-10-08,Claimed
+937,HP Printer,Mobile,17,Working,802,2024-02-11,2024-09-14,Available
+938,Dell Laptop,Other,6,Working,551,2024-06-29,2025-04-18,Claimed
+939,Microwave,Appliance,2,Working,833,2025-04-25,2025-05-06,Claimed
+940,Microwave,Battery,6,Working,62,2025-05-29,2025-08-03,Claimed
+941,Dell Laptop,Other,9,Obsolete,390,2023-11-30,2024-12-31,Claimed
+942,Sony Camera,Laptop,19,Obsolete,289,2024-02-14,2024-03-28,Available
+943,Samsung TV,Other,19,Working,308,2024-11-14,2025-07-19,Available
+944,HP Printer,Mobile,5,Obsolete,570,2023-10-31,2025-01-02,Claimed
+945,HP Printer,Laptop,20,Obsolete,981,2024-08-18,2024-11-14,Claimed
+946,Sony Camera,Battery,9,Obsolete,464,2025-06-20,2025-09-15,Claimed
+947,Samsung TV,Battery,11,Working,471,2025-09-30,2025-10-24,Expired
+948,Dell Laptop,Mobile,5,Obsolete,945,2023-10-03,2024-11-14,Available
+949,Microwave,Appliance,1,Working,689,2024-10-20,2025-10-11,Available
+950,HP Printer,Other,16,Damaged,552,2023-12-27,2024-05-30,Available
+951,Sony Camera,Mobile,18,Working,914,2024-06-22,2024-12-12,Expired
+952,HP Printer,Mobile,12,Damaged,848,2024-11-07,2025-08-13,Expired
+953,Dell Laptop,Appliance,6,Obsolete,9,2024-05-27,2025-05-05,Available
+954,HP Printer,Battery,7,Damaged,10,2025-08-01,2025-08-20,Available
+955,Sony Camera,Mobile,9,Obsolete,944,2024-01-26,2024-08-18,Expired
+956,Dell Laptop,Laptop,3,Obsolete,641,2024-01-30,2024-03-16,Claimed
+957,Sony Camera,Laptop,8,Damaged,991,2025-08-22,2025-10-28,Claimed
+958,iPhone,Battery,16,Obsolete,724,2024-07-06,2025-07-01,Expired
+959,Samsung TV,Mobile,7,Obsolete,406,2023-11-16,2025-06-18,Available
+960,Dell Laptop,Other,17,Damaged,175,2024-03-23,2025-02-20,Expired
+961,Samsung TV,Other,20,Obsolete,180,2024-07-10,2025-09-24,Available
+962,Microwave,Laptop,3,Working,266,2025-05-19,2025-07-30,Expired
+963,Samsung TV,Other,9,Working,869,2024-12-25,2025-03-07,Expired
+964,iPhone,Other,20,Damaged,698,2024-06-03,2025-06-09,Expired
+965,HP Printer,Mobile,14,Obsolete,690,2023-10-21,2024-11-06,Expired
+966,iPhone,Battery,14,Damaged,281,2025-04-19,2025-06-30,Available
+967,Sony Camera,Other,15,Damaged,371,2025-06-06,2025-09-07,Expired
+968,iPhone,Laptop,2,Damaged,941,2025-07-17,2025-08-16,Claimed
+969,Microwave,Appliance,11,Working,402,2025-01-11,2025-01-11,Available
+970,Dell Laptop,Mobile,19,Working,756,2025-03-28,2025-07-07,Available
+971,Sony Camera,Appliance,3,Working,202,2025-04-04,2025-09-18,Available
+972,Dell Laptop,Battery,3,Obsolete,641,2025-05-03,2025-08-22,Available
+973,iPhone,Appliance,14,Working,607,2025-05-02,2025-08-29,Expired
+974,Dell Laptop,Battery,8,Working,485,2024-11-22,2025-09-11,Available
+975,Dell Laptop,Mobile,11,Obsolete,814,2025-08-18,2025-08-24,Available
+976,iPhone,Other,20,Damaged,783,2025-08-28,2025-09-03,Available
+977,Sony Camera,Appliance,19,Working,88,2025-04-19,2025-10-05,Available
+978,iPhone,Appliance,11,Obsolete,67,2024-01-21,2024-03-27,Available
+979,iPhone,Appliance,2,Damaged,626,2025-02-17,2025-05-16,Expired
+980,HP Printer,Mobile,4,Obsolete,58,2024-10-08,2024-11-16,Expired
+981,iPhone,Battery,13,Damaged,99,2024-02-19,2025-08-17,Expired
+982,HP Printer,Laptop,20,Obsolete,639,2024-08-31,2024-10-25,Available
+983,HP Printer,Appliance,15,Damaged,902,2024-07-25,2025-08-08,Expired
+984,Microwave,Mobile,11,Obsolete,961,2023-12-12,2024-10-06,Expired
+985,iPhone,Appliance,17,Damaged,602,2025-09-08,2025-10-24,Available
+986,iPhone,Mobile,1,Obsolete,731,2024-02-19,2025-03-11,Available
+987,Microwave,Laptop,19,Working,653,2023-11-12,2024-03-08,Expired
+988,Dell Laptop,Battery,14,Damaged,743,2024-01-22,2025-08-11,Expired
+989,HP Printer,Laptop,8,Working,817,2024-05-16,2024-07-16,Available
+990,iPhone,Laptop,10,Obsolete,447,2023-10-31,2025-07-02,Expired
+991,Sony Camera,Battery,10,Obsolete,907,2024-02-07,2024-12-27,Expired
+992,Samsung TV,Laptop,16,Damaged,618,2024-02-04,2024-04-19,Claimed
+993,Dell Laptop,Battery,1,Obsolete,601,2023-10-14,2024-12-02,Expired
+994,Sony Camera,Laptop,2,Working,520,2024-03-10,2024-03-20,Expired
+995,iPhone,Appliance,12,Working,1000,2024-12-01,2025-02-19,Available
+996,Sony Camera,Laptop,3,Damaged,194,2025-07-11,2025-08-16,Expired
+997,HP Printer,Appliance,20,Obsolete,340,2023-10-16,2025-05-31,Expired
+998,Microwave,Battery,20,Damaged,429,2025-06-02,2025-09-22,Claimed
+999,Samsung TV,Mobile,15,Working,508,2023-12-08,2024-07-30,Available
+1000,iPhone,Laptop,8,Damaged,639,2025-04-05,2025-07-01,Available
