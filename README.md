@@ -50,5 +50,16 @@ This project aims to reduce electronic waste by connecting e-waste Donors (house
 - Categories with highest pickup counts  
 - Collector efficiency metrics  
 - Total quantity donated per donor  
-- Donation trends per city  
+- Donation trends per city
+## 📷 Screenshots
+| Home Page | Filtered Tables | Visual Insights |
+|-----------|----------------|----------------|
+| ![Home](screenshot/home.png) | ![Tables](screenshot/tables.png) | ![Charts](screenshot/charts.png) |
 
+🙋‍♀ About Me
+
+I am currently pursuing my Master’s in Computer Applications (MCA) and learning Data Science through real-world projects and hands-on practice.
+I'm passionate about solving environmental and social problems using data, machine learning, and user-friendly tech platforms.
+
+## 🔗 Connect with me on LinkedIn  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yamini-s-886572371/)
